@@ -1,0 +1,21 @@
+/* Css = Cascade Style Sheet*/
+
+/*
+seletor: {
+    propriedade : valor
+    cor vermelho
+}
+*/
+/* Tipos de seletores
+1. Seletores por elemento/tag
+*/
+
+
+header{
+    background-color: burlywood;
+}
+/*2. Seletor por classe*/
+
+.secaoDetalhesConta {
+    background-color: cadetblue;
+}
